@@ -5,4 +5,4 @@
 
 * In addition, the user should be presented with different types of cocktails.
 
-* And also on the right side of the site there should be icons with social networks
+* And also on the right side of the site there should be icons with social networks.
